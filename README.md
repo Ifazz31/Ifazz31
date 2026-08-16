@@ -3,7 +3,7 @@
 **Software Engineer at Trust and Pay (TAP)** — building mobile financial services used across Bangladesh.
 Full-stack across **Angular**, **.NET Core**, and **Laravel**. Based in Dhaka 🇧🇩
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifaz-aiman-1356ba221/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ifazzaiman17@gmail.com)
 
 ---
