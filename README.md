@@ -66,14 +66,9 @@ Most of this lives in private company repos, so here's what I've actually shippe
 
 **B.Sc. in Software Engineering** — Shahjalal University of Science and Technology (SUST), 2020–2025
 
----
+## 🌱 Currently
 
-## 📊 Stats
-
-![Ifaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifazz31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifazz31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
+- Deepening .NET Core — clean architecture, EF Core performance, stored procedure optimization
+- Exploring async messaging patterns with RabbitMQ and MassTransit
 
 📫 **ifazzaiman17@gmail.com** · Open to conversations about backend, full-stack, and fintech engineering.
