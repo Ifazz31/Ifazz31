@@ -44,11 +44,11 @@ Most of this lives in private company repos, so here's what I've actually shippe
 
 ## 🛠 Tech
 
-**Languages** TypeScript · C# · Python · Java · C++ · SQL
-**Frontend** Angular · React · Tailwind CSS · Angular Material
-**Backend** .NET Core · Laravel · FastAPI · Node.js
-**Data** MS SQL Server · MySQL · MongoDB
-**Practices** REST API design · microservices · stored procedures · SSR · Git
+- **Languages** — TypeScript · C# · Python · Java · C++ · SQL
+- **Frontend** — Angular · React · Tailwind CSS · Angular Material
+- **Backend** — .NET Core · Laravel · FastAPI · Node.js
+- **Data** — MS SQL Server · MySQL · MongoDB
+- **Practices** — REST API design · microservices · stored procedures · SSR · Git
 
 ---
 
